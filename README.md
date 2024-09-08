@@ -1,0 +1,1 @@
+This repo is intended for practice and review with git. That is all.
